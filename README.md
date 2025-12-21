@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Estudiante de 6.º ciclo de **Ingeniería de Software** en la **Universidad Nacional de Ingeniería (UNI)**.
+Estudiante de 3.er Año de **Ingeniería de Software** en la **Universidad Nacional de Ingeniería (UNI)**.
 
 Me enfoco en la **Ingeniería de Datos** y el **Backend**. Busco diseñar arquitecturas eficientes para la transformación y gestión de datos, aplicando lógica de programación robusta en entornos Linux.
 
