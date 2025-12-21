@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+soy+Iv%C3%A1n+Navarro!;Ingenier%C3%ADa+de+Software+%40+UNI;Data+Engineering+%7C+Backend+%7C+Automation&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+soy+Ivan+Navarro!;Ingenier%C3%ADa+de+Software+%40+UNI;Data+Engineering+%7C+Backend+%7C+Automation&center=true&width=500&height=50">
 </div>
 
 ---
