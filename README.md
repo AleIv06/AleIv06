@@ -1,50 +1,45 @@
-<h1>
-  <p align="center">Hello, I'm Ivan Navarro! <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></p>
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
-  </p>
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+soy+Iv%C3%A1n+Navarro!;Ingenier%C3%ADa+de+Software+%40+UNI;Data+Engineering+%7C+Backend+%7C+Automation&center=true&width=500&height=50">
+</div>
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me  
-I'm a Software Engineering student who is passionate about Software Development, Web Technologies, and Problem Solving.  
+### 👨‍💻 Sobre mí
 
-- 🎓 &nbsp; I’m currently studying Software Engineering at UNI (National University of Engineering).  
-- 🌱 &nbsp; Learning more about C programming, SQL, CSS, and Software Development fundamentals.  
+Estudiante de 6.º ciclo de **Ingeniería de Software** en la **Universidad Nacional de Ingeniería (UNI)**.
+
+Me enfoco en la **Ingeniería de Datos** y el **Backend**. Busco diseñar arquitecturas eficientes para la transformación y gestión de datos, aplicando lógica de programación robusta en entornos Linux.
+
+* 🔭 **Enfoque actual:** Automatización de procesos (ETL) y bases de datos.
+* 🌱 **Aprendiendo:** Docker, Despliegue en VPS y Arquitectura de Microservicios.
+* 🎯 **Objetivo:** Trainee en Ingeniería de Datos / Backend Developer.
 
 ---
 
-## 👨🏻‍💻 Known Technologies  
+### 🛠️ Tecnologías
 
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,python,html&perline=4" />
+    <img src="https://skillicons.dev/icons?i=python,cpp&perline=2" />
   </a>
-</p>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,linux,git,selenium&perline=6" />
+  </a>
+</div>
 
 ---
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> To connect with me  
+### 📊 Actividad
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/535321555257786369)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.navarro.p@uni.pe)  
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AleIv06&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleIv06&layout=compact&theme=gotham&hide_border=true" height="150" alt="languages graph" />
+</div>
 
 ---
 
+### 📫 Contacto
 
-
-<!--
-**AleIv06/AleIv06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-navarro-palacios-b47374387/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.navarro.p@uni.pe)
