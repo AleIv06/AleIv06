@@ -32,8 +32,8 @@ Me enfoco en la **Ingeniería de Datos** y el **Backend**. Busco diseñar arquit
 
 ### 📊 Actividad
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AleIv06&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AleIv06&show_icons=true&theme=gotham&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleIv06&layout=compact&theme=gotham&hide_border=true" height="150" alt="languages graph" />
 </div>
 
